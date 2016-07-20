@@ -1,1 +1,2 @@
-# Toy-Problems
+# javascript-algorithms
+
